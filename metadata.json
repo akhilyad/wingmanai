@@ -1,0 +1,8 @@
+{
+  "name": "WingMan AI",
+  "description": "AI dating conversation analyzer and reply coach helping you read vibes, overcome texting anxiety, and craft genuine replies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

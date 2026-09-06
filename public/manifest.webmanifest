@@ -1,0 +1,62 @@
+{
+  "id": "/",
+  "name": "WingMan AI - Dating Conversation Coach",
+  "short_name": "WingMan",
+  "description": "AI dating conversation analyzer and reply coach helping you read vibes, overcome texting anxiety, and craft genuine replies.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#E9E3F8",
+  "background_color": "#E9E3F8",
+  "categories": ["lifestyle", "social", "utilities"],
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Analyze Chat",
+      "short_name": "Analyze",
+      "description": "Analyze dating screenshots or transcripts",
+      "url": "/?tab=analyzer",
+      "icons": [{ "src": "/icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Reply Workshop",
+      "short_name": "Workshop",
+      "description": "Vibe check and calibrate your drafted message",
+      "url": "/?tab=workshop",
+      "icons": [{ "src": "/icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Strategy Coach",
+      "short_name": "Coach",
+      "description": "Ask live dating strategy and social dynamics questions",
+      "url": "/?tab=strategy",
+      "icons": [{ "src": "/icon-192.png", "sizes": "192x192" }]
+    }
+  ]
+}

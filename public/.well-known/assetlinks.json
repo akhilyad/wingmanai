@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.rizzz.datingapp",
+      "sha256_cert_fingerprints": [
+        "14:6D:E9:7D:0F:52:AB:6C:54:19:18:67:BE:B6:BA:A0:0B:4D:4D:2A:44:A2:D5:E2:20:97:5B:3C:96:A8:12:34"
+      ]
+    }
+  }
+]
